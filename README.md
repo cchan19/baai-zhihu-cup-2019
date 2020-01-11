@@ -13,8 +13,8 @@
 
 a. -00.xxx ~ -06.xxx: 数据预处理及生成中间数据
 
-b. 01.xxx - 14.xxx: 生成特征
+b. 01.xxx - 11.xxx: 生成特征
 
-c. 30.xxx - 35.xxx: nn造特征
+c. 30.xxx - 34.xxx: nn造特征
 
 d. 40.xxx - 43.xxx: 模型训练
